@@ -1,73 +1,34 @@
-# properlease-mvp
-AI-powered, blockchain-native landlord SaaS platform. Built with React, Algorand, and smart escrow automation.
-# ProperLease MVP
+# ProperLease
+**AI-powered, blockchain-native property management platform**
 
-**AI-powered, blockchain-native landlord SaaS platform built on Algorand.**  
-ProperLease automates leasing, rent collection, legal workflows, escrow, and tenant support—starting in Arizona.
+ProperLease is a SaaS platform that replaces traditional property managers by automating leasing, smart escrow, legal compliance, and tenant support. Built for independent landlords, powered by Algorand.
 
----
+## 🚀 MVP Features
+- **Smart Lease Engine**: AZ-compliant leases, e-signatures, rent automation
+- **Blockchain Escrow**: Maintenance reserves + tokenized lease execution (Algorand)
+- **AI Tenant Support**: 24/7 automated help with rent, legal Q&A, and maintenance
 
-## Overview
+## 📆 12-Week MVP Timeline
+- **Weeks 1–2**: Smart Lease Engine + Rent UI  
+- **Weeks 3–4**: Smart Escrow + Maintenance Logic  
+- **Weeks 5–6**: Screening API + UX Flows  
+- **Weeks 7–8**: Legal Automation + Constable/Attorney Integration  
+- **Weeks 9–10**: AI Assistant (LangChain)  
+- **Weeks 11–12**: Smart Lock Integration + Pilot Launch
 
-ProperLease gives landlords a complete control panel—replacing property managers with smart automation:
-- Lease builder (AZ-compliant)
-- Smart escrow with $500 maintenance reserve logic
-- Tenant screening (RentSpree)
-- AI assistant for landlords and tenants
-- Smart lock integrations
-- LegalShield workflows (e.g. 5-day notices)
-- Optional tokenized leases via Algorand ASA
+## 📎 Key Docs
+- [Pitch Deck (PDF)](https://drive.google.com/file/d/1IHdmEiy2eH-Z6Hj4WRhls5p_Spfti0Fh/view)
+- [MVP Timeline (Image)](https://drive.google.com/file/d/1EzW0ow9nyBPeC44sM8N6x33QIqzGZYGm/view?usp=sharing)
+- [Wireframes (Image)](https://drive.google.com/file/d/1Mi8MAPwU0b0GEqpAkPWFRk_3bPdA5FpN/view?usp=drive_link)
+- [Notion Landing Page](https://www.notion.so/ProperLease-io-229706f99cf480d09d5bf045bf9e4ee2?source=copy_link)
 
----
-
-## Folder Structure
-
-/src → React frontend code
-/contracts → Algorand smart contracts (LogicSig, escrow logic)
-/docs → Business plan, pitch decks, grant letters
-/wireframes → MVP wireframes and timeline
-/public → Assets and app preview material
-/deck → JSX version of pitch deck for MVP
-
+## 👤 Contact
+**Darius Ellis** – Founder & Project Lead  
+GitHub: [@properlease](https://github.com/properlease)
 
 ---
 
-## Roadmap
+We’re currently onboarding our first 10 Arizona landlords and preparing for launch. Open to early partners, grant opportunities, and Web3-aligned investors. Let’s talk!
 
-| Phase            | Timeline     | Notes |
-|------------------|--------------|-------|
-| MVP Build        | Weeks 1–12   | Lease logic, escrow, RentSpree, locks, AI assistant |
-| Pilot Launch     | Month 4      | 10 landlords / 20–30 units in Arizona |
-| Pre-seed Raise   | Month 5–6    | Target $500K–$1M |
-| Tokenization + DAO | Phase 2     | ASA leases, DAO-ready governance |
-
----
-
-## Built With
-
-- **Frontend:** React + Tailwind  
-- **Backend:** Node.js + Supabase  
-- **Blockchain:** Algorand (ASC1 + ASA)  
-- **AI Assistant:** OpenAI + LangChain  
-- **Integrations:** RentSpree, Stripe, HelloSign, RemoteLock  
-
----
-
-## Live Demo / Deck
-
-- MVP Deck: [`/deck/ProperLeasePitchDeck.jsx`](./deck/ProperLeasePitchDeck.jsx)
-- Website: Coming soon https://www.notion.so/ProperLease-io-229706f99cf480d09d5bf045bf9e4ee2?source=copy_link
-- GitHub: [`https://github.com/properlease/properlease-mvp`](https://github.com/properlease/properlease-mvp)
-
----
-
-## Founder
-
-**Darius Ellis** — Real estate investor, SaaS builder, blockchain strategist  
-Project contact: [properlease.io (coming soon)]()
-
----
-
-## License
-
-MIT License
+## 🛠️ Getting Started
+This repo includes our MVP pitch deck, timeline, and early-stage wireframes. Development updates will follow. Feel free to reach out to collaborate!
