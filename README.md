@@ -56,7 +56,7 @@ ProperLease gives landlords a complete control panel—replacing property manage
 ## Live Demo / Deck
 
 - MVP Deck: [`/deck/ProperLeasePitchDeck.jsx`](./deck/ProperLeasePitchDeck.jsx)
-- Website: Coming soon
+- Website: Coming soon https://www.notion.so/ProperLease-io-229706f99cf480d09d5bf045bf9e4ee2?source=copy_link
 - GitHub: [`https://github.com/properlease/properlease-mvp`](https://github.com/properlease/properlease-mvp)
 
 ---
