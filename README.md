@@ -7,7 +7,7 @@ ProperLease automates leasing, rent collection, legal workflows, escrow, and ten
 
 ---
 
-## 🔍 Overview
+## Overview
 
 ProperLease gives landlords a complete control panel—replacing property managers with smart automation:
 - Lease builder (AZ-compliant)
@@ -20,7 +20,7 @@ ProperLease gives landlords a complete control panel—replacing property manage
 
 ---
 
-## 🏗 Folder Structure
+## Folder Structure
 
 /src → React frontend code
 /contracts → Algorand smart contracts (LogicSig, escrow logic)
@@ -32,7 +32,7 @@ ProperLease gives landlords a complete control panel—replacing property manage
 
 ---
 
-## 📅 Roadmap
+## Roadmap
 
 | Phase            | Timeline     | Notes |
 |------------------|--------------|-------|
@@ -43,7 +43,7 @@ ProperLease gives landlords a complete control panel—replacing property manage
 
 ---
 
-## 💡 Built With
+## Built With
 
 - **Frontend:** React + Tailwind  
 - **Backend:** Node.js + Supabase  
@@ -53,7 +53,7 @@ ProperLease gives landlords a complete control panel—replacing property manage
 
 ---
 
-## 🚀 Live Demo / Deck
+## Live Demo / Deck
 
 - MVP Deck: [`/deck/ProperLeasePitchDeck.jsx`](./deck/ProperLeasePitchDeck.jsx)
 - Website: Coming soon
@@ -61,7 +61,7 @@ ProperLease gives landlords a complete control panel—replacing property manage
 
 ---
 
-## 🧑‍💼 Founder
+## Founder
 
 **Darius Ellis** — Real estate investor, SaaS builder, blockchain strategist  
 Project contact: [properlease.io (coming soon)]()
