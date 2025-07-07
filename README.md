@@ -68,6 +68,6 @@ Project contact: [properlease.io (coming soon)]()
 
 ---
 
-## 📜 License
+## License
 
 MIT License
