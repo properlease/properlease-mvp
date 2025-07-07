@@ -24,7 +24,7 @@ ProperLease is a SaaS platform that replaces traditional property managers by au
 
 ## Contact
 **Darius Ellis** – Founder & Project Lead  
-Linkedin: (https://www.linkedin.com/in/darius-ellis/)
+LinkedIn: [Darius Ellis](https://www.linkedin.com/in/dariusellis)
 GitHub: [@properlease](https://github.com/properlease)
 
 ---
